@@ -19,5 +19,7 @@ First List Item
   - Second nested list item
 - [x] Task 1
 - [ ] Task 2
-- [ ] Task 3
+- [ ] Task 3\
+![](https://myoctocat.com/assets/images/base-octocat.svg)
+
 
