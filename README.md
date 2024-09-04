@@ -16,4 +16,9 @@ This is an unqouted text
 NEW LIST:\
 First List Item
 - First nested list item
-  - Second nested list item
+  - Second nested list item\
+- [x] Task 1
+- [ ] Task 2
+- [ ] Task 3\
+
+
